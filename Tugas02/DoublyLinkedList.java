@@ -1,5 +1,3 @@
-package com.tutorial;
-
 public class DoublyLinkedList implements LinkedList {
     Node head;
     Node tail;
