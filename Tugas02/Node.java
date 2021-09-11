@@ -1,5 +1,3 @@
-package com.tutorial;
-
 public class Node {
     int value;
     Node prev;
