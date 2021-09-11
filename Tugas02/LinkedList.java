@@ -1,5 +1,3 @@
-package com.tutorial;
-
 public interface LinkedList {
     public void insertHead(int value);
 
